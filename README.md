@@ -1,9 +1,7 @@
 📘 Student Management System – File Handling & Collections (Java)
 
 This project implements a Student Record Management System using Java File Handling and Collections Framework. Student records are stored permanently in a file (students.txt). The system allows adding, viewing, searching, deleting, and sorting student records.
-
-Main class: RecordSystem4
-
+2
 🚀 Features ✔ File Handling
 
 Read data using BufferedReader
@@ -84,7 +82,7 @@ rollNo,name,email,course,marks
 
 Example:
 
-101,Rohan,rohan@mail.com,B.Tech,82.5 102,Neha,neha@mail.com,BCA,91.0
+101,Rohan,rahul@mail.com,B.Tech,85  103,karan,karan@mail.com,BCA,76.2
 
 ▶️ How to Run
 
